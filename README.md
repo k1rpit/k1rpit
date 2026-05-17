@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm k1rpit</h1>
-<h3 align="center">### 👋 About Me - 👦 **Age:** 13 years old - 🛡️ **Interests:** Deeply into **CyberSecurity** & Ethical Hacking - 🐍 **Current Stack:** Active **Python** developer - 🐧 **OS:** Running on **Debian Linux** as my main system - 🎯 **Next Goal:** Transitioning to **C** for low-level programming</h3>
+h1 align="center">Hi 👋, I'm k1rpit</h1>
 
+### 👋 About Me
+- 👦 **Age:** 13 years old
+- 🛡️ **Interests:** Deeply into **CyberSecurity** & Ethical Hacking
+- 🐍 **Current Stack:** Active **Python** developer
+- 🐧 **OS:** Running on **Debian Linux** as my main system
+- 🎯 **Next Goal:** Transitioning to **C** for low-level programming
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1rpit&label=Profile%20views&color=0e75b6&style=flat" alt="k1rpit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1rpit" alt="k1rpit" /></a> </p>
