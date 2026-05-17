@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm k1rpit</h1>
+# Hi 👋, I'm k1rpit 
 
 ### 👋 About Me
 - 👦 **Age:** 13 years old
