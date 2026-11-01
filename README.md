@@ -5,7 +5,7 @@
 - 🛡️ **Interests:** Deeply into **CyberSecurity**, Ethical Hacking & InfoSec
 - 🐍 **Current Stack:** Writing security tools with **Python**
 - 🐧 **OS:** Running on **Debian Linux** as my main system
-- 🎯 **Next Goal:** Moving towards low-level security with **C**
+- 🎯 **Next Goal:** Moving towards low-level security with **C** **or** **GO**
 
 ---
 
