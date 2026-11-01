@@ -15,11 +15,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1rpit" alt="k1rpit" /></a> </p>
 
-- Developing a cryptographic password generator that uses os.urandom, Base64 salting, and SHA-512/BLAKE2b hashing. [Sextillion-Pass-Gen](https://github.com/k1rpit/Sextillion-Pass-Gen)
 
 - Studying InfoSec and CyberSecurity through technical literature and hands-on coding. **Linux Sysadmin basics (Debian), Network Protocols (TCP/IP), Pentesting Automation|Self-learning via technical books, official documentation, and practical coding.**
 
-- Developing an automated multi-threaded network scanner that generates random target IPs, detects open ports using Nmap, and fetches OS/geolocation data. [K1R-Scan-fantom](https://github.com/k1rpit/K1R-Scan-fantom)
+- Developing a network scanner with a modular split-script layout. The first script targets open ports and honeypots, while the second performs asynchronous banner grabbing, communicating securely via local JSON states. [k1r-state-scanner-v1](https://github.com/k1rpit/k1r-state-scanner-v1)
+
+- Developing a high-entropy username generation and pipeline mutation engine. Built on a strict separate architecture, it runs an internal mutation engine to fuzz, mutate, and adapt target strings for security auditing. [GENERATNIK-K1RPIT](https://github.com/k1rpit/GENERATNIK-K1RPIT)
+
+- Developing a robust statistical processing engine and data analyzer on native Python. It calculates algorithmic variance, mathematical range, median thresholds, and a custom single-level trimmed mean to process audit payloads. [robust-stats-practice](https://github.com/k1rpit/robust-stats-practice)
+
 
 - Developing Hasher-Core, an interactive CLI tool for cryptographic hashing (MD5, SHA-1, SHA-256, SHA-512) and randomized text salting. [Hasher-Core](https://github.com/k1rpit/Hasher-Core)
 
